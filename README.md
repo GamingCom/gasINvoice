@@ -19,7 +19,7 @@ Addint to FRFuel:
 
 ## Installation
 
-1. Download latest release of [gasINvoice](https://github.com/TgMrP/gasINvoice)
+1. Download latest release of [gasINvoice](https://github.com/TgMrP/gasINvoice/archive/0.1.0.zip)
 2. Drag & Drop contents of `gasINvoice.zip` to your resources folder
 3. Import database.sql in your database
 4. Add gasINvoice to your server.cfg: `ensure gasINvoice`
